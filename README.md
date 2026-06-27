@@ -1,3 +1,3 @@
 Members: 
-Juliana Rae Caguingin
+Juliana Rae Caguingin;
 Jayrone Ramirez
